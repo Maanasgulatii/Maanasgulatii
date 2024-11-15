@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Maanas Gulati</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/edbaae73-dea0-4ff5-8f87-aa5bcff5e406/dhsbbjj-42e74fb4-1836-4081-9983-f6938aaa869d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VkYmFhZTczLWRlYTAtNGZmNS04Zjg3LWFhNWJjZmY1ZTQwNlwvZGhzYmJqai00MmU3NGZiNC0xODM2LTQwODEtOTk4My1mNjkzOGFhYTg2OWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EDd-PIf88oxkisetgy1V4VW_fyqHWJHqJX1b4VR0lks">
