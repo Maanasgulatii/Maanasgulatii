@@ -5,10 +5,8 @@
   <a href="#" style="text-decoration: none; color: blue; animation: fadeIn 1.5s ease-in forwards;">Hi 👋, I'm Maanas Gulati</a>
 </h1>
 
-<h3 align="center">🚀 An Enthusiastic Learner Exploring AI/ML, Data Analysis, and Innovative Tech Stacks</h3>
-
 <p align="center">
-  <img align="right" alt="Coding" width="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/edbaae73-dea0-4ff5-8f87-aa5bcff5e406/dhsbbjj-42e74fb4-1836-4081-9983-f6938aaa869d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VkYmFhZTczLWRlYTAtNGZmNS04Zjg3LWFhNWJjZmY1ZTQwNlwvZGhzYmJqai00MmU3NGZiNC0xODM2LTQwODEtOTk4My1mNjkzOGFhYTg2OWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EDd-PIf88oxkisetgy1V4VW_fyqHWJHqJX1b4VR0lks">
+  <img align="right" alt="Coding" width="220" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/edbaae73-dea0-4ff5-8f87-aa5bcff5e406/dhsbbjj-42e74fb4-1836-4081-9983-f6938aaa869d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VkYmFhZTczLWRlYTAtNGZmNS04Zjg3LWFhNWJjZmY1ZTQwNlwvZGhzYmJqai00MmU3NGZiNC0xODM2LTQwODEtOTk4My1mNjkzOGFhYTg2OWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EDd-PIf88oxkisetgy1V4VW_fyqHWJHqJX1b4VR0lks">
 </p>
 
 <p align="left">
@@ -20,7 +18,7 @@
 - 🔭 I’m currently working on **Image Generator**  
 - 🌱 I’m currently learning **Cloud Fundamentals**  
 - 💬 Ask me about **Movies, Technology, Sports**  
-- 📧 Feel free to reach me at **[mgulati2708@gmail.com](mailto:mgulati2708@gmail.com)**  
+- 📧 Feel free to reach me at **[mgulati2708@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=mgulati2708@gmail.com)**  
 - ⚡ **Fun Fact:** The shortest war in history lasted 38 minutes! ⏱️  
 
 ---
@@ -29,7 +27,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/maanas-gulati-449073267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="https://x.com/mgulati2708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="https://instagram.com/maanas.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maanas.__" height="30" width="40" /></a>
 </p>
 
 ---
@@ -69,8 +66,6 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maanasgulatii&show_icons=true&theme=tokyonight" alt="maanasgulatii" style="display: inline-block; vertical-align: top;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maanasgulatii&show_icons=true&theme=tokyonight" alt="maanasgulatii" style="display: inline-block; vertical-align: top; margin-right: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maanasgulatii&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="maanasgulatii" style="display: inline-block; vertical-align: top;" />
 </p>
-
----
