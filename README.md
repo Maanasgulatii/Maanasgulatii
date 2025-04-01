@@ -2,29 +2,26 @@
 </p>
 
 <h1 align="center">
-  <a href="#" style="text-decoration: none; color: blue; animation: fadeInOut 3s infinite;">Hi 👋, I'm Maanas Gulati</a>
-  <a href="#" style="text-decoration: none; color: blue; animation: fadeInOut 3s infinite; animation-delay: 1.5s;">Welcome to my GitHub!</a>
+  <a href="#" style="text-decoration: none; color: blue; animation: fadeIn 1.5s ease-in forwards;">Hi 👋, I'm Maanas Gulati</a>
 </h1>
 
 <h3 align="center">🚀 An Enthusiastic Learner Exploring AI/ML, Data Analysis, and Innovative Tech Stacks</h3>
 
 <p align="center">
-  <img align="right" alt="Coding" width="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/edbaae73-dea0-4ff5-8f87-aa5bcff5e406/dhsbbjj-42e74fb4-1836-4081-9983-f6938aaa869d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VkYmFhZTczLWRlYTAtNGZmNS04Zjg3LWFhNWJjZmY1ZTQwNlwvZGhzYmJqai00MmU3NGZiNC0xODM2LTQwODEtOTk4My1mNjkzOGFhYTg2OWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EDd-PIf88oxkisetgy1V4VW_fyqHWJHqJX1b4VR0lks">
+  <img align="right" alt="Coding" width="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/edbaae73-dea0-4ff5-8f87-aa5bcff5e406/dhsbbjj-42e74fb4-1836-4081-9983-f6938aaa869d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VkYmFhZTczLWRlYTAtNGZmNS04Zjg3LWFhNWJjZmY1ZTQwNlwvZGhzYmJqai00MmU3NGZiNC0xODM2LTQwODEtOTk4My1mNjkzOGFhYTg2OWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EDd-PIf88oxkisetgy1V4VW_fyqHWJHqJX1b4VR0lks">
 </p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=maanasgulatii&label=Profile%20views&color=0e75b6&style=flat" alt="maanasgulatii" />
 </p>
 
-- 🔭 I’m currently working on **Image Generator**
-
-- 🌱 I’m currently learning **Cloud Fundamentals**
-
-- 💬 Ask me about **Movies, Technology, Sports**
-
-- 📫 How to reach me **mgulati2708@gmail.com**
-
-- ⚡ Fun fact **The first computer "bug" was an actual moth stuck in a Harvard Mark II computer in 1947! 🦋**
+- 🌟 **My Core Expertise:** AI/ML, Data Science, and Cloud Fundamentals  
+- 🔥 **My Signature Projects:** Traffic Prediction System, Forest Shield 360, MovieLand, Crop Optimizer, MailCraft  
+- 🔭 I’m currently working on **Image Generator**  
+- 🌱 I’m currently learning **Cloud Fundamentals**  
+- 💬 Ask me about **Movies, Technology, Sports**  
+- 📧 Feel free to reach me at **[mgulati2708@gmail.com](mailto:mgulati2708@gmail.com)**  
+- ⚡ **Fun Fact:** The shortest war in history lasted 38 minutes! ⏱️  
 
 ---
 
@@ -46,29 +43,34 @@
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
-<p align="left">
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
 </p>
 
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maanasgulatii&show_icons=true&theme=tokyonight" alt="maanasgulatii" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maanasgulatii&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="maanasgulatii" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=maanasgulatii&show_icons=true&theme=tokyonight" alt="maanasgulatii" style="display: inline-block; vertical-align: top;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maanasgulatii&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="maanasgulatii" style="display: inline-block; vertical-align: top;" />
+</p>
 
 ---
