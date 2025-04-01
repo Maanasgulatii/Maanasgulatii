@@ -4,9 +4,8 @@
     </a>
 </p>
 
-<p align="center">
-  <img align="right" alt="Coding" width="220" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/edbaae73-dea0-4ff5-8f87-aa5bcff5e406/dhsbbjj-42e74fb4-1836-4081-9983-f6938aaa869d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VkYmFhZTczLWRlYTAtNGZmNS04Zjg3LWFhNWJjZmY1ZTQwNlwvZGhzYmJqai00MmU3NGZiNC0xODM2LTQwODEtOTk4My1mNjkzOGFhYTg2OWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EDd-PIf88oxkisetgy1V4VW_fyqHWJHqJX1b4VR0lks">
-</p>
+<div style="position: relative; min-height: 240px;">
+  <img align="right" alt="Coding" width="220" style="position: absolute; top: 0; right: 0;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/edbaae73-dea0-4ff5-8f87-aa5bcff5e406/dhsbbjj-42e74fb4-1836-4081-9983-f6938aaa869d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VkYmFhZTczLWRlYTAtNGZmNS04Zjg3LWFhNWJjZmY1ZTQwNlwvZGhzYmJqai00MmU3NGZiNC0xODM2LTQwODEtOTk4My1mNjkzOGFhYTg2OWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EDd-PIf88oxkisetgy1V4VW_fyqHWJHqJX1b4VR0lks">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=maanasgulatii&label=Profile%20views&color=0e75b6&style=flat" alt="maanasgulatii" />
@@ -19,6 +18,7 @@
 - 💬 Ask me about **Movies, Technology, Sports**  
 - 📧 Feel free to reach me at **[mgulati2708@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=mgulati2708@gmail.com)**  
 - ⚡ **Fun Fact:** The shortest war in history lasted 38 minutes! ⏱️  
+</div>
 
 ---
 
